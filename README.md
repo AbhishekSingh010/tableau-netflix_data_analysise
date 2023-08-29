@@ -22,7 +22,7 @@ To access and explore the Tableau project, follow these steps:
 
 bash
 Copy code
-git clone https://github.com/your-username/netflix-tableau-project.git
+clone this git repo...
 Tableau Software: Ensure you have Tableau Desktop installed on your machine. If not, you can download it from the Tableau website.
 
 ### Open the Project: Launch Tableau Desktop and open the .twb or .twbx file provided in the repository.
@@ -30,7 +30,7 @@ Tableau Software: Ensure you have Tableau Desktop installed on your machine. If 
 ### Interact with Visualizations: Once the project is loaded, you can interact with the visualizations, apply filters, and explore the insights. Feel free to customize the visualizations as needed.
 
 ## Data Source
-The data used for this project is sourced from [mention_data_source_here]. The dataset contains information on user interactions, content details, viewing history, and more. Due to privacy concerns, the dataset has been anonymized and sanitized.
+The data used for this project is netflix usage data. The dataset contains information on user interactions, content details, viewing history, and more. Due to privacy concerns, the dataset has been anonymized and sanitized.
 
 ## Contribution
 Contributions to this project are welcome! If you find any issues, have suggestions for improvements, or want to add more visualizations, feel free to open an issue or submit a pull request.
