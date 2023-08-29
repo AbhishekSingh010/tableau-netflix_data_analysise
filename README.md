@@ -19,7 +19,8 @@ Getting Started
 To access and explore the Tableau project, follow these steps:
 
 ### Clone the Repository: Start by cloning this repository to your local machine using the following command:
-
+bash code
+git clone https://github.com/AbhishekSingh010/tableau-netflix_data_analysise.git
 clone this git repo...
 Tableau Software: Ensure you have Tableau Desktop installed on your machine. If not, you can download it from the Tableau website.
 
