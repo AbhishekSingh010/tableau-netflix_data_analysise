@@ -20,8 +20,6 @@ To access and explore the Tableau project, follow these steps:
 
 ### Clone the Repository: Start by cloning this repository to your local machine using the following command:
 
-bash
-Copy code
 clone this git repo...
 Tableau Software: Ensure you have Tableau Desktop installed on your machine. If not, you can download it from the Tableau website.
 
